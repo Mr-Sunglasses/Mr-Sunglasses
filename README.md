@@ -1,4 +1,4 @@
-[![Watch the video](https://imgr.search.brave.com/4TJrgdf9qd4FXF4M4QF-9FuTP7h_bdnAl63p75Fd1kA/fit/1200/565/ce/1/aHR0cDovL2hlYWx0/aHlnbG93Lm5ldC5h/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMC9PdmVyY29t/aW5nLWxpZmVzLWNo/YWxsZW5nZXMtMTIw/MHg1NjUuanBn)](https://youtu.be/aN2k-CX1UnQ)
+[![Life Anthem](https://www.perfectduluthday.com/wp-content/uploads/2018/03/My-Post-18.jpg)](https://youtu.be/aN2k-CX1UnQ)
 
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
