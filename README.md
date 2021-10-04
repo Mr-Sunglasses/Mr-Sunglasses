@@ -1,4 +1,4 @@
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video]](https://youtu.be/aN2k-CX1UnQ)
 
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
