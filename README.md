@@ -1,4 +1,4 @@
-[![Life Anthem](https://www.perfectduluthday.com/wp-content/uploads/2018/03/My-Post-18.jpg)](https://www.youtube.com/watch?v=vX2cDW8LUWk)
+[![Life Anthem](http://25.media.tumblr.com/ef9a3063e5d8df53c4df00c2e5922a23/tumblr_mg599zmodw1rpbmjdo1_500.gif)](https://www.youtube.com/watch?v=vX2cDW8LUWk)
 
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
