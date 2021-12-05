@@ -1,5 +1,6 @@
-[![Life Anthem](http://25.media.tumblr.com/ef9a3063e5d8df53c4df00c2e5922a23/tumblr_mg599zmodw1rpbmjdo1_500.gif)](https://www.youtube.com/watch?v=vX2cDW8LUWk)
-
+<p align="center">
+  [![Life Anthem](http://25.media.tumblr.com/ef9a3063e5d8df53c4df00c2e5922a23/tumblr_mg599zmodw1rpbmjdo1_500.gif)](https://www.youtube.com/watch?v=vX2cDW8LUWk)
+</P
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate IOS Developer from India</h3>
 
