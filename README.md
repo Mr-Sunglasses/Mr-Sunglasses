@@ -1,5 +1,5 @@
-![linux](https://user-images.githubusercontent.com/81439109/144758675-bf384e27-20bd-4019-95b0-![7suZ](https://user-images.githubusercontent.com/81439109/144758720-66bd0b02-80e8-4cc6-918a-2f1bdae4db68.gif)
-321ec3e1fbc9.gif)
+![linux](https://user-images.githubusercontent.com/81439109/144758776-26fa2a91-fb97-403b-b46d-13ef5178b926.gif)
+![7suZ](https://user-images.githubusercontent.com/81439109/144758783-8916fcad-a874-4686-9b4b-1a0c4c38c456.gif)
 
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate Developer from India</h3>
