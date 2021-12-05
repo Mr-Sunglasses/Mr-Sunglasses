@@ -2,7 +2,7 @@
     <img src="http://25.media.tumblr.com/ef9a3063e5d8df53c4df00c2e5922a23/tumblr_mg599zmodw1rpbmjdo1_500.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
-<h3 align="center">A passionate IOS Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sunglasses&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sunglasses" /> </p>
 
@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://kanishkpachauri.netlify.app](https://kanishkpachauri.netlify.app)
 
-- 💬 Ask me about **SwiftUI,Flask**
+- 💬 Ask me about **Dart,Flask**
 
 - 📫 How to reach me **krishna03012003@icloud.com**
 
-- ⚡ Fun fact **I know Computers more than Human Nature**
+- ⚡ Fun fact **I know Computer's Nature more than Human Nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
