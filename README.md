@@ -1,5 +1,6 @@
+<p align="center">
 ![linux](https://user-images.githubusercontent.com/81439109/144758675-bf384e27-20bd-4019-95b0-321ec3e1fbc9.gif)
-
+</p>
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
