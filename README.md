@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.gifer.com/7suM.gif" />
+    <img src="https://i.gifer.com/7suZ.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate Developer from India</h3>
