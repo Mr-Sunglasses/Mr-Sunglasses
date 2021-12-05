@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="http://25.media.tumblr.com/ef9a3063e5d8df53c4df00c2e5922a23/tumblr_mg599zmodw1rpbmjdo1_500.gif" />
+    <img src="https://i.gifer.com/7suM.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate Developer from India</h3>
