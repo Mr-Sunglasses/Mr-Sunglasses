@@ -1,6 +1,5 @@
-<p align="center">
-    <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/7suZ" width="100%" height="100%"               style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-</p>
+![linux](https://user-images.githubusercontent.com/81439109/144758675-bf384e27-20bd-4019-95b0-321ec3e1fbc9.gif)
+
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
