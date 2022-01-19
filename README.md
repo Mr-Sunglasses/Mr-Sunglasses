@@ -1,9 +1,8 @@
-<div class="tenor-gif-embed" data-postid="20034388" data-share-method="host" data-aspect-ratio="0.75" data-width="100%"><a href="https://tenor.com/view/good-luck-good-luck-gif-20034388">Good Luck GIF</a>from <a href="https://tenor.com/search/good-gifs">Good GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!-- ![Luck](https://tenor.com/bwd1s.gif) -->
 <!-- ![linux](https://user-images.githubusercontent.com/81439109/144758776-26fa2a91-fb97-403b-b46d-13ef5178b926.gif) -->
-<!-- ![7suZ](https://user-images.githubusercontent.com/81439109/144758783-8916fcad-a874-4686-9b4b-1a0c4c38c456.gif)
+![7suZ](https://user-images.githubusercontent.com/81439109/144758783-8916fcad-a874-4686-9b4b-1a0c4c38c456.gif)
 ![3U60](https://user-images.githubusercontent.com/81439109/144758834-dcc21cc8-f69a-44c4-baf1-3ffad7c1a127.gif)
- -->
+
 
 <h1 align="center">Hi 👋, I'm Kanishk Pachauri</h1>
 <h3 align="center">A passionate Developer from India</h3>
