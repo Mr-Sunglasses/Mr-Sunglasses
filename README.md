@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **JavaScript,React,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://kanishkpachauri.netlify.app](https://kanishkpachauri.netlify.app)
+- 👨‍💻 Get to Know About Me Vist -  [https://kanishkpachauri.netlify.app](https://kanishkpachauri.netlify.app)
 
 - 💬 Ask me about **Dart,Flask**
 
