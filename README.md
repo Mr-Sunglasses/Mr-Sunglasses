@@ -21,7 +21,7 @@
 
 - 👨‍💻 Get to Know About Me Vist -  [https://kanishkpachauri.netlify.app](https://kanishkpachauri.netlify.app)
 
-- 💬 Ask me about **Dart,Flask**
+- 💬 Ask me about **Dart,FastApi**
 
 - 📫 How to reach me **krishna03012003@icloud.com**
 
