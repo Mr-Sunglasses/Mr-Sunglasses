@@ -1,4 +1,5 @@
 <!-- ![Luck](https://tenor.com/bwd1s.gif) -->
+> “Without suffering, there'd be no compassion.”
 <p align="center">
   <img src="https://media4.giphy.com/media/iYXcwaknTi6bkd04M8/giphy.gif?cid=790b7611956e083d1b9d3d7ab383a96d0ef4c7e69f674fc0&rid=giphy.gif&ct=g">
 </p>
