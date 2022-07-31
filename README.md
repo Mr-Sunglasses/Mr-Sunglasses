@@ -1,5 +1,5 @@
 <!-- ![Luck](https://tenor.com/bwd1s.gif) -->
-> “Without suffering, there'd be no compassion.”
+> “I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough..”
 <p align="center">
   <img src="https://media4.giphy.com/media/iYXcwaknTi6bkd04M8/giphy.gif?cid=790b7611956e083d1b9d3d7ab383a96d0ef4c7e69f674fc0&rid=giphy.gif&ct=g">
 </p>
