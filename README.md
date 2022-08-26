@@ -41,9 +41,27 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kanishkpachauri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kanishkpachauri" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-sunglasses&show_icons=true&locale=en&layout=compact" alt="mr-sunglasses" /></p>
+ <br>
+ <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sunglasses&show_icons=true&locale=en" alt="mr-sunglasses" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-sunglasses&show_icons=true&locale=en&layout=compact" alt="mr-sunglasses" />
+</p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sunglasses&" alt="mr-sunglasses" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-sunglasses&show_icons=true&locale=en" alt="mr-sunglasses"/>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sunglasses&" alt="mr-sunglasses" />
+</p>
+
+
+
+
+
+
+
+
+
 
