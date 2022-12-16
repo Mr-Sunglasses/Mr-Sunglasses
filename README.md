@@ -41,6 +41,8 @@
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kanishkpachauri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kanishkpachauri" /></a></p><br><br>
 
+<img align="center" src="https://static.fsf.org/nosvn/associate/crm/6022579.png" height="50" width="210" alt="fsf@kanishkpachauri" /></a>
+
  <br>
  <br>
 
