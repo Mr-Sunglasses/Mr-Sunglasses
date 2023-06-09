@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm an Open Source Contributor and a Cook 👨‍🍳. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm an Open Source Contributor, Cloud Enginner Intern 🤓 at Google and a Cook 👨‍🍳. I love ❤️ Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47n0yfnw4fe11xy9qkb1wmnnbq0c946ur2rb3yi66i&ep=v1_gifs_related&rid=giphy.gif&ct=g">
