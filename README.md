@@ -7,7 +7,6 @@
 
 <p align="center">
 <a href= "mailto:itskanishkp.py@gmail.com"><img src="https://img.icons8.com/material-outlined/32/000000/mail.png"/></a>
-<a href= "https://twitter.com/itsKanishkP"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://kanishk.fosscu.org/"><img src="https://img.icons8.com/material-outlined/32/000000/web-design.png"/></a>
 </p>
 
