@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a dev at Samagra 🤓 by ☀️ and an Open Source Contributor aka OpenSorcerer 🧙‍♂️ by 🌓, and a Cook 👨‍🍳 24/7 😊. I love ❤️ Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="450" src="https://github.com/Mr-Sunglasses/Mr-Sunglasses/assets/81439109/1b4a32b6-e488-4598-9df2-c57c56d7869b">
+  <img width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Jvd2xqdmh4aGxwbGtrenh1ZWFwazdoNWJubGc0YTBpNmZodnZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9DdpNOTHGO9OG90S7/giphy.gif">
 </p>
 
 
