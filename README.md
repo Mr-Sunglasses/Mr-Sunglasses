@@ -1,5 +1,11 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a dev 🤓 by ☀️ and an Open Source Contributor aka OpenSorcerer 🧙‍♂️ by 🌓, and a Cook 👨‍🍳 24/7 😊. I love ❤️ Python 🐍 and Fedora 🐧</samp></h4>
 
+<a href="https://blog.kanishkk.me/posts/the-language-of-music/">
+<p align="center">
+  <img src="https://ih1.redbubble.net/image.4020670701.3738/fposter,small,wall_texture,square_product,600x600.u2.jpg">
+</p>
+</a>
+
 <a href="https://fedoralovespython.org/">
 <p align="center">
   <img src="https://fedoralovespython.org/static/img/fedoralovespython.svg">
