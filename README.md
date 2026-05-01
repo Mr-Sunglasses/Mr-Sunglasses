@@ -5,8 +5,6 @@
 [![PyPI](https://img.shields.io/badge/-itsKanishkP-0073b7?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/itsKanishkP/)](https://pypi.org/user/itsKanishkP/)
 [![MAIL Badge](https://img.shields.io/badge/-eq.itskanishkp+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eq.itskanishkp+github@gmail.com)](mailto:eq.itskanishkp+github@gmail.com)
 
-I'm migrating to [https://tangled.org](https://tangled.org/mr-sunglasses.tngl.sh)
-
 <a href="https://fedoralovespython.org/">
 <p align="center">
   <img src="https://fedoralovespython.org/static/img/fedoralovespython.svg">
