@@ -13,8 +13,8 @@
 
 <p align="center">
 <a href= "mailto:eq.itskanishkp+github@gmail.com"><img src="https://img.icons8.com/material-outlined/32/000000/mail.png"/></a>
-<a href= "https://kanishkk.me"><img src="https://img.icons8.com/material-outlined/32/000000/web-design.png"/></a>
-<a href= "https://blog.kanishkk.me"><img src="https://img.icons8.com/?size=32&id=18877&format=png&color=000000"/></a>
+<a href= "https://kanishkk.xyz"><img src="https://img.icons8.com/material-outlined/32/000000/web-design.png"/></a>
+<a href= "https://blog.kanishkk.xyz"><img src="https://img.icons8.com/?size=32&id=18877&format=png&color=000000"/></a>
 </p>
 
 <p align="center"><samp>
