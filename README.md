@@ -5,11 +5,11 @@
 [![PyPI](https://img.shields.io/badge/-itsKanishkP-0073b7?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/itsKanishkP/)](https://pypi.org/user/itsKanishkP/)
 [![MAIL Badge](https://img.shields.io/badge/-eq.itskanishkp+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eq.itskanishkp+github@gmail.com)](mailto:eq.itskanishkp+github@gmail.com)
 
-<a href="https://fedoralovespython.org/">
 <p align="center">
-  <img src="https://fedoralovespython.org/static/img/fedoralovespython.svg">
+  <a href="https://fedoralovespython.org/">
+    <img src="https://fedoralovespython.org/static/img/fedoralovespython.svg" alt="Fedora Loves Python">
+  </a>
 </p>
-</a>
 
 <p align="center">
 <a href= "mailto:eq.itskanishkp+github@gmail.com"><img src="https://img.icons8.com/material-outlined/32/000000/mail.png"/></a>
