@@ -1,23 +1,33 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a dev 🤓 by ☀️ and an Open Source Contributor aka OpenSorcerer 🧙‍♂️ by 🌓, and a Cook 👨‍🍳 24/7 😊. I love ❤️ Python 🐍 and Fedora 🐧</samp></h4>
+<h4 align="center">Hi there! 👋</h4>
+<p align="center">💻 I love writing open-source code, and I’m the proud father of two kittens. 🐱🐱</p>
 
-[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/Mr-Sunglasses&style=flat-square)](https://github.com/sponsors/Mr-Sunglasses)
-[![Twitter Badge](https://img.shields.io/badge/-@itsKanishkP-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsKanishkP)](https://twitter.com/itsKanishkP)
-[![PyPI](https://img.shields.io/badge/-itsKanishkP-0073b7?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/itsKanishkP/)](https://pypi.org/user/itsKanishkP/)
-[![MAIL Badge](https://img.shields.io/badge/-eq.itskanishkp+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eq.itskanishkp+github@gmail.com)](mailto:eq.itskanishkp+github@gmail.com)
-
-<p align="center">
-  <a href="https://fedoralovespython.org/">
-    <img src="https://fedoralovespython.org/static/img/fedoralovespython.svg" alt="Fedora Loves Python">
-  </a>
-</p>
-
-<p align="center">
-<a href= "mailto:eq.itskanishkp+github@gmail.com"><img src="https://img.icons8.com/material-outlined/32/000000/mail.png"/></a>
-<a href= "https://kanishkk.xyz"><img src="https://img.icons8.com/material-outlined/32/000000/web-design.png"/></a>
-<a href= "https://blog.kanishkk.xyz"><img src="https://img.icons8.com/?size=32&id=18877&format=png&color=000000"/></a>
-</p>
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="./assets/images/migi.PNG" alt="Migi" width="250">
+      <br>
+      <strong>🐾 Migi</strong>
+      <details>
+        <summary>📖 Story behind her name</summary>
+        <div align="left">
+          <p>Adopting a kitten had been a dream of mine for a very long time, and I used to talk about it a lot with a friend of mine.</p>
+          <p>During one of those conversations, I promised her, “You choose the name, and whatever you pick, I’ll name my first kitten that.”</p>
+          <p>She chose <strong>Migi</strong>. 🐾</p>
+          <p>And when that dream finally came true, I kept my promise.</p>
+          <p>So Migi’s name will always be a little more special to me. Every time I call her, it quietly reminds me of the person who named her</p>
+        </div>
+      </details>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="./assets/images/po.jpg" alt="Po" width="250">
+      <br>
+      <strong>🐾 Po</strong>
+      <details>
+        <summary>📖 Story behind her name</summary>
+        <div align="left">
+          <p>She is so fluffy and fat that she resembles Po from <em>Kung Fu Panda</em> 🐼, so I named her Po.</p>
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
